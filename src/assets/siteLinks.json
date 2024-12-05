@@ -2,36 +2,50 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.kweoo.cn"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://pan.kweoo.cn"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Cloud",
+    "name": "备用线路网盘",
+    "link": "https://pann.kweoo.cn"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "图床",
+    "link": "https://image.kweoo.cn"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "FAFU",
+    "link": "https://fafu.kweoo.cn"
+  },
+    {
+    "icon": "Book",
+    "name": "FAFU备用线路",
+    "link": "https://fafuu.kweoo.cn"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "AI",
+    "link": "https://ai.kweoo.cn"
+  },
+    {
+    "icon": "LaptopCode",
+    "name": "ALIST",
+    "link": "https://alist.kweoo.cn"
+  },    {
+    "icon": "LaptopCode",
+    "name": "docker",
+    "link": "https://docker.kweoo.cn"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "manage",
+    "link": "https://op.kweoo.cn"
   }
 ]
