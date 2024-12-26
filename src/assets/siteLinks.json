@@ -1,8 +1,8 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.kweoo.cn"
+    "icon": "LaptopCode",
+    "name": "密码库",
+    "link": "https://pw.kweoo.cn"
   },
   {
     "icon": "Cloud",
@@ -26,8 +26,8 @@
   },
     {
     "icon": "Book",
-    "name": "FAFU备用线路",
-    "link": "https://fafuu.kweoo.cn"
+    "name": "FAFU教程",
+    "link": "https://note.youdao.com/s/5yll3BCR"
   },
   {
     "icon": "Fire",
@@ -48,4 +48,9 @@
     "name": "manage",
     "link": "https://op.kweoo.cn"
   }
+  {
+    "icon": "LaptopCode",
+    "name": "FAFU备用线路",
+    "link": "https://fafuu.kweoo.cn"
+  },
 ]
