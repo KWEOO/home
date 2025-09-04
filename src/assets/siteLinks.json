@@ -22,36 +22,16 @@
   {
     "icon": "Book",
     "name": "FAFU",
-    "link": "https://fafu.kweoo.cn"
+    "link": "https://bwf.kweoo.cn"
   },
   {
     "icon": "Book",
-    "name": "FAFU教程",
-    "link": "https://note.youdao.com/s/5yll3BCR"
-  },
-  {
-    "icon": "Fire",
-    "name": "AI",
-    "link": "https://ai.kweoo.cn"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "ALIST",
-    "link": "https://alist.kweoo.cn"
-  },    
-  {
-    "icon": "LaptopCode",
-    "name": "docker",
-    "link": "https://docker.kweoo.cn"
+    "name": "123",
+    "link": "https://share.note.youdao.com/s/7XbftOOA"
   },
   {
     "icon": "LaptopCode",
     "name": "manage",
-    "link": "https://op.kweoo.cn"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "FAFU备用线路",
-    "link": "https://fafuu.kweoo.cn"
+    "link": "https://1panel.kweoo.cn"
   }
 ]
