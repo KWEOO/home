@@ -17,17 +17,7 @@
   {
     "icon": "Compass",
     "name": "图床",
-    "link": "https://image.kweoo.cn"
-  },
-  {
-    "icon": "Book",
-    "name": "FAFU",
-    "link": "https://bwf.kweoo.cn"
-  },
-  {
-    "icon": "Book",
-    "name": "123",
-    "link": "https://share.note.youdao.com/s/7XbftOOA"
+    "link": "https://imgbed.kweoo.cn"
   },
   {
     "icon": "LaptopCode",
